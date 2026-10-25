@@ -1,0 +1,78 @@
+[
+  {
+    "name": "initial state",
+    "passed": true
+  },
+  {
+    "name": "reject reverse direction",
+    "passed": true
+  },
+  {
+    "name": "queued turn one",
+    "passed": true
+  },
+  {
+    "name": "queued turn two",
+    "passed": true
+  },
+  {
+    "name": "collect score growth count",
+    "passed": true
+  },
+  {
+    "name": "wall collision",
+    "passed": true
+  },
+  {
+    "name": "self collision",
+    "passed": true
+  },
+  {
+    "name": "vacated tail cell legal",
+    "passed": true
+  },
+  {
+    "name": "obstacle collision",
+    "passed": true
+  },
+  {
+    "name": "timeout",
+    "passed": true
+  },
+  {
+    "name": "pause stops deadline",
+    "passed": true
+  },
+  {
+    "name": "stage 1 scoring incl time bonus",
+    "passed": true
+  },
+  {
+    "name": "stage 1 transition",
+    "passed": true
+  },
+  {
+    "name": "stage 2 scoring incl time bonus",
+    "passed": true
+  },
+  {
+    "name": "stage 2 transition",
+    "passed": true
+  },
+  {
+    "name": "stage 3 scoring incl time bonus",
+    "passed": true
+  },
+  {
+    "name": "stage 3 transition",
+    "passed": true
+  },
+  {
+    "name": "three stage victory",
+    "passed": true
+  },
+  {
+    "name": "300 randomized spawn layouts",
+    "passed": true
+  }
+]
